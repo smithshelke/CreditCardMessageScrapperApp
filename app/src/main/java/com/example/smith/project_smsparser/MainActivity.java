@@ -32,6 +32,8 @@ public class MainActivity extends AppCompatActivity {
                 card.parseMessages(messagesList);
                 TextView tv = findViewById(R.id.info);
                 TextView dd = findViewById(R.id.due_date);
+              //  tv.setText("Total amount due: "+card.getTotalAmount()+" ,Minimum Amount due: "+card.getMinimumAmount());
+               // dd.setText("Due by: "+card.getDueDate());
             }
 
         });

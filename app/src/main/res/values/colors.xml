@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Amour">#FFE3EB</color>
+    <color name="Selago">#FEFDFE</color>
+    <color name="Brink_Pink">#FF6692</color>
+    <color name="Tacao">#FFAF7F</color>
+    <color name="Blue">#8BE1FF</color>
+    <color name="turquoise_dark">#4ECACA</color>
+    <color name="turquoise_light">#5DD0BB</color>
+    <color name="white">@android:color/white</color>
+    <color name="blcak">@android:color/black</color>
+    <color name="background">@color/background_material_light</color>
+
+
+</resources>
+    <!--
+    Amour
+    #FFE3EB
+
+    Selago
+    #FEFDFE
+
+    Brink Pink
+    #FF6692
+
+    Tacao
+    #FFAF7F
+
+    Blue
+    #8BE1FF
+
+
+    -->
